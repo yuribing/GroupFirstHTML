@@ -5,8 +5,6 @@
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
-* [Features](#features)
-* [Screenshots](#screenshots)
 * [Setup](#setup)
 * [Usage](#usage)
 * [Project Status](#project-status)
@@ -41,42 +39,39 @@
 2. I recommend you to install VS code since our majority of members are using it.
 [_VSCode Download_] (https://code.visualstudio.com/docs/?dv=win)
 
-3. [_Netlify Sign UP_] (https://git-scm.com/download/win)
-"Click here to download the latest (2.35.1) 64-bit version of Git for Windows"
-
+3. [_Netlify Sign UP_] (https://www.netlify.com/pricing/)
+"Please read the Price page carefully before sign up"
 
 ## Usage
-How does one go about using it?
-Provide various use cases and code examples here.
-
+Template for individual use
 `write-your-code-here`
 
 
 ## Project Status
-Project is: _in progress_ / _complete_ / _no longer being worked on_. If you are no longer working on it, provide reasons why.
+Project is: _in progress_.
 
 
 ## Room for Improvement
 Include areas you believe need improvement / could be improved. Also add TODOs for future development.
 
-Room for improvement:
-- Improvement to be done 1
-- Improvement to be done 2
-
-To do:
-- Feature to be added 1
-- Feature to be added 2
-
+Using Git to upload your changes:
+- Finish modifying 
+    -> git add .
+    -> git commit -m "This is my second changes for text color and background images"
+    -> git push
+- When you see the changes in your github repository
+    -> Go to Netlify site > click "Sites" from heading menu > click your website > 
+        click "Deploys" from heading menu > click "Triger Deploy" and dropdown menu comes up > click "Deploy site"
+        *"Clear cache and deploy site" is for clearing the server cashe and take longer 
+        when you deploy too many times. Basicly both does same.
 
 ## Acknowledgements
 Give credit here.
-- This project was inspired by...
-- This project was based on [this tutorial](https://www.example.com).
-- Many thanks to...
-
+- This project was based on [tml-css-js.com](https://html5-templates.com/).
+- Please read [Privacy](https://html-css-js.com/terms-privacy/)
 
 ## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
+Created by [@yuribing](https://www.beerneko.com/) - feel free to contact me!
 
 
 <!-- Optional -->
