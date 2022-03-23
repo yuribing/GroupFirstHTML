@@ -44,7 +44,7 @@
 
 ## Usage
 Template for individual use
-`write-your-code-here`
+`Free use`
 
 
 ## Project Status
