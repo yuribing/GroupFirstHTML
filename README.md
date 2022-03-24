@@ -32,16 +32,21 @@
 
 ## Setup
 ### Install Git
-1. [_Git Download_] (https://git-scm.com/download/win)
-"Click here to download the latest (2.35.1) 64-bit version of Git for Windows"
+1. [_Git Download_] (https://git-scm.com/download/win)<br />
+"Click here to download the latest (2.35.1) 64-bit version of Git for Windows"<br />
+This is the file version management tool for sharing the environment with the team and deploying your codes. 
 
 ### Install IDE
-2. I recommend you to install VS code since our majority of members are using it.
-[_VSCode Download_] (https://code.visualstudio.com/docs/?dv=win)
-
-3. [_Netlify Sign UP_] (https://www.netlify.com/pricing/)
-"Please read the Price page carefully before sign up"
-
+2. I recommend you to install VS code since our majority of members are using it.<br />
+[_VSCode Download_] (https://code.visualstudio.com/docs/?dv=win)<br />
+The most common IDE by Microsoft. NW campus computer programming classes often uses it.
+### Sign UP Netlify
+3. [_Netlify Sign UP_] (https://www.netlify.com/pricing/)<br />
+"Please read the Price page carefully before sign up"<br />
+This cloud computing company that offers hosting and serverless backend services for web applications and static websites.
+### Sign UP Github
+4. [_Github Sign up_] (https://github.com/) <br />
+This is the central Hub for Git. It is used for publishing your Website at Netlify.
 ## Usage
 Template for individual use
 `Free use`
@@ -52,18 +57,22 @@ Project is: _in progress_.
 
 
 ## Room for Improvement
-Include areas you believe need improvement / could be improved. Also add TODOs for future development.
-
-Using Git to upload your changes:
+###Using Git to upload your changes:
 - Finish modifying 
-    -> git add .
-    -> git commit -m "This is my second changes for text color and background images"
-    -> git push
-- When you see the changes in your github repository
-    -> Go to Netlify site > click "Sites" from heading menu > click your website > 
-        click "Deploys" from heading menu > click "Triger Deploy" and dropdown menu comes up > click "Deploy site"
-        *"Clear cache and deploy site" is for clearing the server cashe and take longer 
-        when you deploy too many times. Basicly both does same.
+    -> git add <br />
+    -> git commit -m "This is my second changes for text color and background images"<br />
+    -> git push<br />
+
+- When you see the changes in your github repository<br />
+    -> Go to Netlify site<br />
+    click "Sites" from heading menu<br />
+    click your website<br />
+    click "Deploys" from heading menu<br />
+    click "Triger Deploy" and dropdown menu comes up<br />
+    click "Deploy site"<br />
+
+    *"Clear cache and deploy site" is for clearing the server cashe and take longer 
+    when you deploy too many times. Basicly both does same.
 
 ## Acknowledgements
 Give credit here.
@@ -71,7 +80,7 @@ Give credit here.
 - Please read [Privacy](https://html-css-js.com/terms-privacy/)
 
 ## Contact
-Created by [@yuribing](https://www.beerneko.com/) - feel free to contact me!
+Created by [@yuribing](beerneko@yahoo.com) - feel free to contact me!
 
 
 <!-- Optional -->
