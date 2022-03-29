@@ -80,7 +80,7 @@ Give credit here.
 - Please read [Privacy](https://html-css-js.com/terms-privacy/)
 
 ## Contact
-Created by [@yuribing](beerneko@yahoo.com) - feel free to contact me!
+Created by [@yuribing](mailto:beerneko@yahoo.com) - feel free to contact me!
 
 
 <!-- Optional -->
